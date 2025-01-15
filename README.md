@@ -1,1 +1,1 @@
-# proyecto-4-dise-o
+# proyecto-4-diseño
