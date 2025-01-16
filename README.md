@@ -244,7 +244,7 @@ Tanto la página de inicio como la página de búsqueda presentan resultados pos
 
 No he podido hacer el test porque me daba fallo al hacer el test
 
-![ghost inspector](videos_capturas/ghost_inspector.png)
+![ghost inspector](./videos_capturas/ghost_inspector.png)
 
 ## **5. Reflexión Final**
 
